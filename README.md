@@ -4,31 +4,40 @@
 <a href="https://www.linkedin.com/in/janmejay-yadav-a29470190/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
  </a> 
-<a href="mailto:vrukshalitorawane@gmail.com">
+<a href="mailto:janmejay.yadav.1234@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"   />
 </a>
-<a href="https://twitter.com/vrukshali26">
+<a href="https://twitter.com/janmejay30">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
 </a>
-<a href="https://vrukshalitorawane.medium.com/">
-  <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
-</a>
-<a href="https://www.youtube.com/channel/UCSch4za59t6N2kYfZH-B_YQ">
+
+<a href="https://www.youtube.com/channel/UC25BPVeQLy1F3FMIjULET6A">
 	<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 <br>
 
 ## 🎓 About me
 • I’m working in TCS. <br />
-<!-- • I'm [EX294 - Automation with Ansible - RedHat Certified Engineer](https://rhtapps.redhat.com/verify?certId=210-076-055) and [EX180 - RedHat Certified Specialist in Containers and Kubernetes](https://rhtapps.redhat.com/verify?certId=210-076-055)  <br /> -->
+• Full Stack Java Developer.<br />
 • DevOps and Cloud Enthusiast.
 
 
 ##  ✔ Technologies 
 
-<!-- ### Languages⚡
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
- -->
+ ### Languages⚡
+<img src="https://img.shields.io/badge/C++-FFD43B?style=for-the-badge&logo=C++&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+
+### Skills 🚀
+• Core Java <br />
+• Servlet   <br />
+• JSP    <br />
+• JDBC <br />
+• Hibernate  <br />
+• Spring Framework  <br />
+• Mongo DB  <br />
+• MySQL  <br />
+• HTML  <br />
+• CSS   <br />
 ### DevOps💙 
 <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" /> 
@@ -36,33 +45,25 @@
 
 ### Cloud ☁
 <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> 
-<!-- <img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />  -->
+<img src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> 
 
 ## Achivements 🏆
 
-🚀 [Contributed to Argo Project](https://twitter.com/vrukshali26/status/1492142566510194688?s=20&t=mF-xV2oC4Eurs4KCNI7zKg) <br /><br />
-🚀 [Blog got featured at KCD Chennai Official Page](https://twitter.com/kcdchennai/status/1495769039813365761?s=20&t=jDSYAcHQZjt8iL4TXv1Dlw)
+🚀 [Earn Gold Badge in Java ](https://www.hackerrank.com/certificates/a1c459a71796) <br /><br />
+🚀 [Completed 200 + DSA Question in GeeksForGeeks](https://auth.geeksforgeeks.org/user/janmejayy/practice/)
 <!-- ![visitors](https://profile-counter.glitch.me/Vrukshali-26/count.svg?align=center)  -->
 
-## Global Certification 🎓
+<!-- ## Global Certification 🎓
 
 👉🏻[RedHat Certified Specialist in Ansible Automation](https://rhtapps.redhat.com/verify?certId=210-076-055) <br> <br>
-👉🏻[RedHat Certified Specialist in Containers and Kubernetes](https://rhtapps.redhat.com/verify?certId=210-076-055) <br> <br>
+👉🏻[RedHat Certified Specialist in Containers and Kubernetes](https://rhtapps.redhat.com/verify?certId=210-076-055) <br> <br> -->
 
 ## 📈 Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vrukshali-26&show_icons=true&theme=highcontrast" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vrukshali-26&theme=highcontrast" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=janmejayy&show_icons=true&theme=highcontrast" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=janmejayy&theme=highcontrast" />
 </p>
 
-<!-- ![](https://activity-graph.herokuapp.com/graph?username=Vrukshali-26&theme=react-dark&hide_border=true) -->
 
-### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#210](https://github.com/bradmccoydev/mentoring/pull/210) in [bradmccoydev/mentoring](https://github.com/bradmccoydev/mentoring)
-2. 🗣 Commented on [#3224](https://github.com/oam-dev/kubevela/issues/3224) in [oam-dev/kubevela](https://github.com/oam-dev/kubevela)
-3. 🗣 Commented on [#441](https://github.com/cncf/glossary/issues/441) in [cncf/glossary](https://github.com/cncf/glossary)
-4. 🗣 Commented on [#21](https://github.com/dokc/dokc.github.io/issues/21) in [dokc/dokc.github.io](https://github.com/dokc/dokc.github.io)
-5. 🎉 Merged PR [#206](https://github.com/bradmccoydev/mentoring/pull/206) in [bradmccoydev/mentoring](https://github.com/bradmccoydev/mentoring)
 <!--END_SECTION:activity-->
