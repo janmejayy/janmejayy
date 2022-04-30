@@ -1,7 +1,7 @@
 
  #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Janmejay](https://www.linkedin.com/in/janmejay-yadav-a29470190/)🦥!!
 
-<a href="https://www.linkedin.com/in/vrukshali-torawane">
+<a href="https://www.linkedin.com/in/janmejay-yadav-a29470190/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
  </a> 
 <a href="mailto:vrukshalitorawane@gmail.com">
@@ -19,7 +19,7 @@
 <br>
 
 ## 🎓 About me
-• I’m currently a junior pursuing my Bachelors in Computer Science & Engineering <br />
+• I’m working in TCS. <br />
 <!-- • I'm [EX294 - Automation with Ansible - RedHat Certified Engineer](https://rhtapps.redhat.com/verify?certId=210-076-055) and [EX180 - RedHat Certified Specialist in Containers and Kubernetes](https://rhtapps.redhat.com/verify?certId=210-076-055)  <br /> -->
 • DevOps and Cloud Enthusiast.
 
