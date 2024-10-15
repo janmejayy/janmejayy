@@ -32,9 +32,12 @@
 
 
 ### Skills 🚀
-Back-End & Frameworks: C++, Java, Python, Perl, Spring Boot, Hibernate Microservices, RESTful API development. 
-Front-End and Database: HTML, CSS, JavaScript ,Bootstrap, Angular, React, MySQL, MongoDB. 
-DevOps and Software Development Practices Linux , Jenkins, Docker , AWS, GitHub, GitLab Agile Methodologies, Continuous Integration and Deployment (CI/CD). 
+### Back-End & Frameworks:
+C++, Java, Python, Perl, Spring Boot, Hibernate Microservices, RESTful API development. 
+### Front-End and Database:
+HTML, CSS, JavaScript ,Bootstrap, Angular, React, MySQL, MongoDB. 
+### DevOps and Software Development Practices:
+Linux, Jenkins, Docker , AWS, GitHub, GitLab Agile Methodologies, Continuous Integration and Deployment (CI/CD). 
 
 ### DevOps💙 
 <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
