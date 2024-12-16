@@ -17,7 +17,7 @@
 <br>
 
 ## 🎓 About me
-• I’m working in Siemens <br />
+• I’m working at Siemens <br />
 • Full Stack Software Engineer.<br />
 • DevOps and Cloud Enthusiast.
 
